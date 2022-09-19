@@ -1,0 +1,28 @@
+<html>
+    <head>
+       <title> <h1>F</h1></title> 
+       <style>
+
+           .groub{
+               background-color: aqua;
+               position: absolute;
+               left: 20%;
+               top: 20%;
+           }
+                      .groub1{
+               background-color: coral;
+               position: absolute;
+               left: 20%;
+               top: 10%;
+           }
+       </style>
+     </head>   
+      <body>
+          <h1>F</h1>
+         <h class="groub1">the robot will moving forward</h>
+          <a href="iot2.html"> <button  class="groub"><h1>Back to main page</h1></button></a>
+      </body>  
+
+      
+    
+</html>

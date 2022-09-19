@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta charset="utf-8">
+       <title> first task for IOT for moving robot</title> 
+
+       <style>
+           
+           .sub{
+               background-color:orange;
+             position:  absolute;
+               left: 30%;
+               top: 30%
+           }
+           .sub1{
+               background-color: darkorange;
+               position: absolute;
+               left: 45%;
+               top: 40%;
+           }
+
+           .groub{
+               background-color: darkorange;
+               position: absolute;
+               left: 20%;
+               top: 40%;
+           }
+           .groub2{
+               background-color: darkorange;
+               position:  absolute;
+               left: 30%;
+               top: 45%
+                
+           }
+           body{ background-image:url(673284.jpg)}
+
+            </style>
+      
+        </head>   
+      <body > 
+        
+<a href="Forward.html"> <button class="sub"> <h1>Forword </h1></button> </a>       
+          <a href="Backward.html"> <button  class="groub2"><h1>Backward</h1></button></a>
+          <a href="Right.html"> <button class="sub1"><h1>Right</h1></button></a>
+          <a href="Left.html">  <button class="groub"><h1>Left</h1></button></a>
+              </body>  
+
+
+
+</html>
